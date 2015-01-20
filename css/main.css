@@ -149,9 +149,9 @@ body {
 
 #ser .row .block {
   float: left;
-  min-width: 25.5em;
-  width: 30%;
-  margin: 0 1.5%;
+  min-width: 21em;
+  width: 33%;
+  margin: 0;
   padding: 2em;
   text-align: center;
 }
@@ -244,9 +244,9 @@ body {
 
 #team .row .block {
   float: left;
-  min-width: 25.5em;
-  width: 30%;
-  margin: 0 1.5%;
+  min-width: 21em;
+  width: 33%;
+  margin: 0;
   padding: 2em;
   text-align: center;
 }
