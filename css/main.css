@@ -149,8 +149,8 @@ body {
 
 #ser .row .block {
   float: left;
-  width: 25.5em;
-  max-width: 100%;
+  min-width: 25.5em;
+  width: 30%;
   margin: 0 1.5%;
   padding: 2em;
   text-align: center;
@@ -195,8 +195,8 @@ body {
 
 #por .row .block {
   float: left;
-  width: 21.3em;
-  max-width: 100%;
+  width: 25%;
+  min-width: 21em;
   padding: 1%;
   text-align: center;
 }
@@ -207,7 +207,7 @@ body {
 }
 
 #por .row .block h3.title {
-  margin: 15px 0 0 0;
+  margin: 5px 0;
   font-family: 'Bitter', serif;
 }
 
@@ -244,8 +244,8 @@ body {
 
 #team .row .block {
   float: left;
-  width: 25.5em;
-  max-width: 100%;
+  min-width: 25.5em;
+  width: 30%;
   margin: 0 1.5%;
   padding: 2em;
   text-align: center;
