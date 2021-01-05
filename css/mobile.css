@@ -1,0 +1,33 @@
+.mobile .description{
+   width: 40% !important;
+}
+
+.mobile .image{
+   width: 59% !important;
+}
+
+.mobile .block img {
+   width: 55% !important;
+}
+
+.mobile .description h3.title {
+   font-size: 40px !important;
+   line-height: 50px !important;
+   font-weight: 300 !important;
+   padding-bottom: 10px !important;
+   padding-top: 100px !important;
+}
+
+.mobile .description p {
+  font-size: 20px !important;
+  line-height: 30px !important;
+}
+
+.mobile #team img {
+  border-radius: 0 !important;
+  width: 80% !important;
+}
+
+.mobile p.headline {
+  margin: 15px !important;
+}
